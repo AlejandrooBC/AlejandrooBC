@@ -1,16 +1,16 @@
-## Hi there 👋
+# Alejandro Begara Criado
+MS Robotics student at Northeastern University, Boston, MA (Expected May 2027).
 
-<!--
-**AlejandrooBC/AlejandrooBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About 
+- Dual BS in Electrical & Computer Systems Engineering, Rensselaer Polytechnic Institute (RPI) (May 2025).
+- Research experience in autonomy, reinforcement learning (RL) for legged locomotion, sim-to-real transfer, and simulation.
+- Project experience with legged and mobile robots.
+- Industry experience in medical devices (Medtronic), surgical robotics, and machine learning.
 
-Here are some ideas to get you started:
+## Interests
+- Autonomy, legged locomotion, prosthetics, sensing, and navigation.
+- Open to applying robotics expertise across diverse domains, including defense, autonomy, and healthcare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn: [linkedin.com/in/alejandrobegaracriado](https://linkedin.com/in/alejandrobegaracriado)
+- Email: [begaracriado.a@northeastern.edu]
