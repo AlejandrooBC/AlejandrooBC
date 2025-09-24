@@ -8,8 +8,8 @@ M.S. Robotics student at **Northeastern University**, Boston, MA (Expected May 2
 - Industry experience in medical devices, surgical robotics, and machine learning.
 
 ## Interests
-- Autonomy, legged locomotion, prosthetics, sensing, and navigation.
-- Open to applying robotics expertise across diverse domains, including defense, autonomy, and healthcare.
+- Robotics applications in autonomy, legged locomotion, prosthetics, sensing, navigation, and human-robot interaction.
+- Open to learning and applying skills across diverse domains, including defense and aerospace, space exploration, automotive, industrial, and healthcare robotics.
 
 ## Contact
 - LinkedIn: [linkedin.com/in/alejandrobegaracriado](https://linkedin.com/in/alejandrobegaracriado)
