@@ -13,4 +13,4 @@ M.S. Robotics student at **Northeastern University**, Boston, MA (Expected May 2
 
 ## Contact
 - LinkedIn: [linkedin.com/in/alejandrobegaracriado](https://linkedin.com/in/alejandrobegaracriado)
-- Email: [begaracriado.a@northeastern.edu]
+- Email: begaracriado.a@northeastern.edu
