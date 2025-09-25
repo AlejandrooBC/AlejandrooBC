@@ -12,6 +12,6 @@ M.S. Robotics student at **Northeastern University**, Boston, MA (Expected May 2
 - Open to learning and applying skills across diverse domains, including defense and aerospace, space exploration, automotive, industrial, and healthcare robotics.
 
 ## Contact
-- Portfolio: alejandrobcportfolio.com
+- Portfolio: [alejandrobcportfolio.com]
 - LinkedIn: [linkedin.com/in/alejandrobegaracriado](https://linkedin.com/in/alejandrobegaracriado)
 - Email: begaracriado.a@northeastern.edu
