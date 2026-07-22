@@ -1,5 +1,6 @@
 # Alejandro Begara Criado
 M.S. Robotics student at **Northeastern University**, Boston, MA (Expected May 2027).
+Dual American & Spanish citizenship.
 
 ## About 
 - Dual B.S. in Electrical Engineering & Computer Systems Engineering, **Rensselaer Polytechnic Institute**, Troy, NY (May 2025).
