@@ -10,7 +10,7 @@ Dual American & Spanish citizenship.
 
 ## Interests
 - Robotics applications in autonomy, legged locomotion, prosthetics, sensing, navigation, human-robot interaction, etc.
-- Open to learning and applying skills across diverse domains, including defense and aerospace, space exploration, automotive, industrial, and healthcare robotics.
+- Open to learning and applying skills across diverse domains, including healthcare, aerospace, defense, automotive, industrial automation, and biotechnology.
 
 ## Contact
 - Portfolio: [alejandrobcportfolio.com](https://www.alejandrobcportfolio.com/)
